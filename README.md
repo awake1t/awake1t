@@ -1,7 +1,13 @@
-### Hi there 👋
-
 <!--
 **awake1t/awake1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+  <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
+</p>
+
+### Hi,I'm awake1t 👋
+
+
 
 Here are some ideas to get you started:
 
