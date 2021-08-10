@@ -15,4 +15,4 @@
 
 ### 統計數據 | statistics
 [![awake1t](https://github-readme-stats.vercel.app/api?username=awake1t&locale=en&show_icons=true&hide=contribs)](#)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=awake1t&layout=compact&locale=en)
+
